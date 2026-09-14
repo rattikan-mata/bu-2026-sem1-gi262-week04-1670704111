@@ -7,17 +7,17 @@ namespace Assignment
     {
         public void Start()
         {
-            // AS01_CountWords();
-            // AS02_CountNumber();
-            // AS03_CheckValidBrackets();
-            // AS04_PrintReverseLinkedList();
-            // AS05_FindMiddleElement();
-            // AS06_MergeDictionaries();
-            // AS07_RemoveDuplicatesFromLinkedList();
-            // AS08_TopFrequentNumber();
-            // AS09_PlayerInventory();
-            // AS10_GameEventQueue();
-            // AS11_PlayerStatsTracker();
+            AS01_CountWords();
+            AS02_CountNumber();
+            AS03_CheckValidBrackets();
+            AS04_PrintReverseLinkedList();
+            AS05_FindMiddleElement();
+            AS06_MergeDictionaries();
+            AS07_RemoveDuplicatesFromLinkedList();
+            AS08_TopFrequentNumber();
+            AS09_PlayerInventory();
+            AS10_GameEventQueue();
+            AS11_PlayerStatsTracker();
         }
 
         #region Assignment
